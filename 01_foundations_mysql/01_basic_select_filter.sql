@@ -139,10 +139,10 @@ WHERE UnitPrice > 0.99
 ORDER BY Name
 LIMIT 10;
 /* Result (first 5 rows):
-Name                          | UnitPrice
-"?"                           | 1.99
-...And Found                  | 1.99
-...In Translation             | 1.99
-.07%                          | 1.99
+Name                             | UnitPrice
+"?"                              | 1.99
+...And Found                     | 1.99
+...In Translation                | 1.99
+.07%                             | 1.99
 A Benihana Christmas, Pts. 1 & 2 | 1.99
 */
