@@ -1,3 +1,6 @@
 .vscode/
 *.sqlite
 Chinook*.sql
+*.bak
+*.mdf
+*.ldf
